@@ -1,6 +1,8 @@
 <div align="center">
 
-![Welcome to Tioon's GitHub 👋](https://capsule-render.vercel.app/api?type=waving&color=66b3ff&height=300&section=header&text=Welcome%20to%20Tioon's%20GitHub%20👋&fontSize=30&animation=twinkling)
+![Welcome to Tioon's GitHub 👋](https://capsule-render.vercel.app/api?type=waving&color=gradient&color0=1D8CD1&color1=87cefa&height=300&section=header&text=Welcome%20to%20Tioon's%20GitHub%20👋&fontSize=40&animation=fadeIn&textColor=ffffff)
+
+
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tioon74)](https://solved.ac/tioon74/)
 
