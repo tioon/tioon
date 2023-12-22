@@ -4,13 +4,15 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tioon74)](https://solved.ac/tioon74/)
 
-<br><br>
+<br><br><br>
 
 ## 💻 DEV's log 💻
 
 [![Tioon's Devlog](https://img.shields.io/badge/Tioon's%20Devlog-FF5722?style=for-the-badge&logo=tistory&logoColor=white)](https://tioon.tistory.com/)
 
 [![Tioon's Tistory Card](https://github-readme-tistory-card.vercel.app/api?name=tioon&theme=default)](https://tioon.tistory.com/)
+
+<br><br><br>
 
 ## 🔨 Tech Stack 🔨
 
@@ -35,6 +37,8 @@
 ![Android Studio](https://img.shields.io/badge/Andoid%20Studio-3DDC84?style=flat-square&logo=android%20studio&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+<br><br><br>
 
 ## 🌈 Follow Me 🌈
 
