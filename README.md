@@ -1,5 +1,6 @@
 <div align="center">
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tioon74)](https://solved.ac/tioon74/)
+
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tioon74)](https://solved.ac/tioon74/)
 
 <br>
 
