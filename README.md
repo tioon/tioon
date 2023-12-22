@@ -1,12 +1,9 @@
 <div align="center">
 
 ![Welcome to Tioon's GitHub 👋](https://capsule-render.vercel.app/api?type=waving&color=gradient&color0=1D8CD1&color1=87cefa&height=300&section=header&text=Welcome%20to%20Tioon's%20GitHub%20👋&fontSize=40&animation=fadeIn&textColor=ffffff)
-
-
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tioon74)](https://solved.ac/tioon74/)
 
-<br><br><br>
+<br>
 
 ## 💻 DEV's log 💻
 
@@ -14,7 +11,7 @@
 
 [![Tioon's Tistory Card](https://github-readme-tistory-card.vercel.app/api?name=tioon&theme=default)](https://tioon.tistory.com/)
 
-<br><br><br>
+<br>
 
 ## 🔨 Tech Stack 🔨
 
@@ -40,7 +37,7 @@
 ![HTML5](https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-<br><br><br>
+<br>
 
 ## 🌈 Follow Me 🌈
 
