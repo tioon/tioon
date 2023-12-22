@@ -1,4 +1,4 @@
-<div align="center">
+
 
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tioon74)](https://solved.ac/tioon74/)
 
@@ -43,5 +43,5 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/ye._.chan9)](https://instagram.com/ye._.chan9)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:tioon74@gmail.com)](mailto:tioon74@gmail.com)
 
-</div>
+
 
