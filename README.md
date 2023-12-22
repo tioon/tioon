@@ -5,7 +5,7 @@
 <br>
 
 ## 💻 DEV's log 💻
-[![Tech Blog](https://img.shields.io/badge/Tioon's%20Devlog-FF5722?style=for-the-badge&logo=tistory&logoColor=white)](https://tioon.tistory.com/)
+[![Tech Blog](https://img.shields.io/badge/Tioon's%20Devlog-FF5722?style=for-the-badge&logo=tistory&logoColor=white)](https://tioon.tistory.com/)<br>
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=tioon&theme=default)](https://tioon.tistory.com/)
 
 <br>
