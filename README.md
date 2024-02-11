@@ -8,7 +8,6 @@
 
 [![Tioon's Devlog](https://img.shields.io/badge/Tioon's%20Devlog-FF5722?style=for-the-badge&logo=tistory&logoColor=white)](https://tioon.tistory.com/)
 
-[![Tioon's Tistory Card](https://github-readme-tistory-card.vercel.app/api?name=tioon&theme=default)](https://tioon.tistory.com/)
 
 <br>
 
