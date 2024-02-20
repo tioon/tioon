@@ -13,10 +13,12 @@
 
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Oracle](https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
 
 ### Cloud
 
@@ -31,6 +33,8 @@
 ![Android Studio](https://img.shields.io/badge/Andoid%20Studio-3DDC84?style=flat-square&logo=android%20studio&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white)
+
 
 
 
@@ -103,15 +107,15 @@ __[2023.2 ~ ing]__
 ## 🏅 Award 🏅
 
 __[창의적 공학 설계 대회]__    
-• '동상' 수상  
+• 동상  
 • 'Smart Parking 시스템' 출품
 
 __[캡스톤디자인 경진대회]__  
-• '동상' 수상  
+• 동상 
 • '아이 행봇해' 출품
 
 __[2024 GDSC KR New Year Hackathon]__  
-• '우수상' 수상  
+• 우수상  
 • '아띠' 출품
 
 <br>
