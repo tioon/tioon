@@ -2,10 +2,11 @@
 
 ## ✏️  DEV's log
 
-[![Tioon's Devlog](https://img.shields.io/badge/Tioon's%20Devlog-FF5722?style=for-the-badge&logo=tistory&logoColor=white)](https://tioon.tistory.com/)
 
+[![Tioon's Devlog Badge](https://img.shields.io/badge/방문하기-Tioon's%20DEVLOG-FF5722?style=for-the-badge&logo=tistory&logoColor=white)](https://tioon.tistory.com/)   
+
+[![Tioon's Tistory Card](https://github-readme-tistory-card.vercel.app/api?name=tioon&theme=default)](https://tioon.tistory.com/)   
 <br>
-
 
 ## 🔨 Tech Stack
 
@@ -50,55 +51,49 @@
 <br>
 
 
-
 ## 📌 My Experience
-__[2019.12 ~ 2021.2]__  
-• ```'정혜경의 C 프로그래밍' 수료```
 
-__[2020.12 ~ 2021.3]__  
-• ```게임/VR.AR 연합 개발 소모임, 'KALEIDO' 부원```
+### __```2019```__
+- __[2019.12 ~ 2020.2]__  
+  • '정혜경의 C 프로그래밍' 수료
 
-__[2020.8 ~ 2020.12]__  
-• ```'Smart Parking 시스템' 개발```
+### __```2020```__
+- __[2020.3 ~ 2021.3]__  
+  • 게임/VR.AR 연합 개발 소모임, 'KALEIDO' 부원
+- __[2020.8 ~ 2020.12]__  
+  • 'Smart Parking 시스템' 개발
 
-__[2022.1 ~ 2022.2]__  
-• ```간호사 듀티 생성 알고리즘 개발```
+### __```2022```__
+- __[2022.1 ~ 2022.2]__  
+  • 간호사 듀티 생성 알고리즘 개발
+- __[2022.3]__  
+  • 비트코인 자동거래 프로그램 개발
+- __[2022.4 ~ 2022.11]__  
+  • 간호사 듀티 작성 어플, '듀티 헬퍼' 개발
+- __[2022.8 ~ 2022.9]__  
+  • 119구조구급센터 '산악구조 요구조자 위치 탐색' 프로그램 개발
 
-__[2022.3]__  
-• ```비트코인 자동거래 프로그램 개발```  
+### __```2023```__
+- __[2023.3 ~ 2023.6]__  
+  • P2P 기반 검색어 공유 프로그램 개발
+- __[2023.3 ~ 2023.9]__  
+  • 영유아 감정분석 챗봇, '아이행봇해' 개발
+- __[2023.4 ~ 2023.8]__  
+  • IT 학술 소모임, 'ASACE' 멘토
+- __[2023.8 ~ 2024.1]__  
+  • 웹소켓 기반, '첫인상 게임' 개발
+- __[2023.9 ~ ing]__  
+  • 생성형 AI 기반 학습관리 서비스, '큐터디' 개발
+- __[2023.9 ~ ing]__  
+  • 클라우드 연합 IT 동아리, 'Clound Club' 부원
 
-__[2022.4 ~ 2022.11]__  
-• ```간호사 듀티 작성 어플, '듀티 헬퍼' 개발```
-
-__[2022.8 ~ 2022.9]__  
-• ```119구조구급센터 '산악구조 요구조자 위치 탐색' 프로그램 개발 ```
-
-__[2023.1 ~ 2023.7]__  
-• ```임베디드 차량 개폐 안전장치, 'SmartAutoLock' 개발```
-
-__[2023.3 ~ 2023.6]__  
-• ```P2P 기반 검색어 공유 프로그램 개발```
-
-__[2023.3 ~ 2023.8]__  
-• ```IT 학술 소모임, 'ASACE' 멘토```
-
-__[2023.3 ~ 2023.9]__  
-• ```영유아 감정분석 챗봇, '아이행봇해' 개발``` 
-
-__[2023.8 ~ 2024.1]__  
-• ```웹소켓 기반, '첫인상 게임' 개발``` 
-
-__[2023.9 ~ ing]__  
-• ```생성형 AI 기반 학습관리 서비스, '큐터디' 개발```
-
-__[2023.9 ~ ing]__  
-• ```클라우드 연합 IT 동아리, 'Clound Club' 부원```
-
-__[2023.1]__  
-• ```당신의 감정 도우미, '아띠' 개발```
-
-__[2023.2 ~ ing]__  
-• ```IT경영학회, 'KUSITMS' 백엔드 파트``` 
+### __```2024```__
+- __[2024.1]__  
+  • 당신의 감정 도우미, '아띠' 개발
+- __[2024.2 ~ ing]__  
+  • IT경영학회, 'KUSITMS' 백엔드 파트
+- __[2024.2 ~ 2024.3]__  
+  • 한국방송광고진흥공사(KOBACO), AISAC 서비스 개발
 
 <br>
 
@@ -107,15 +102,15 @@ __[2023.2 ~ ing]__
 ## 🏅 Award 🏅
 
 __[창의적 공학 설계 대회]__    
-• ```동상```  
+• ```동상```🏆  
 • ```'Smart Parking 시스템' 출품```
 
 __[캡스톤디자인 경진대회]__  
-• ```동상```  
+• ```동상```🏆  
 • ```'아이 행봇해' 출품```
 
 __[2024 GDSC KR New Year Hackathon]__  
-• ```우수상```  
+• ```우수상```🏆  
 • ```'아띠' 출품```
 
 <br>
@@ -124,3 +119,4 @@ __[2024 GDSC KR New Year Hackathon]__
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/ye._.chan9)](https://instagram.com/ye._.chan9)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:tioon74@gmail.com)](mailto:tioon74@gmail.com)
+
