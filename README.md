@@ -5,7 +5,7 @@
 
 [![Tioon's Devlog Badge](https://img.shields.io/badge/방문하기-Tioon's%20DEVLOG-FF5722?style=for-the-badge&logo=tistory&logoColor=white)](https://tioon.tistory.com/)   
 
-[![Tioon's Tistory Card](https://github-readme-tistory-card.vercel.app/api?name=tioon&theme=default)](https://tioon.tistory.com/)   
+
 <br>
 
 ## 🔨 Tech Stack
