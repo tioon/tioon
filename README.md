@@ -5,8 +5,9 @@
 
 [![Tioon's Devlog Badge](https://img.shields.io/badge/방문하기-Tioon's%20DEVLOG-FF5722?style=for-the-badge&logo=tistory&logoColor=white)](https://tioon.tistory.com/)     
 
-<a href="https://tioon.tistory.com/195" target="_blank" style="text-decoration: none; color: inherit;">
-  <div style="display: flex; flex-direction: column; max-width: 400px; margin: 20px 0; border: 1px solid #ddd; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.1); background-color: #ffffff; transition: transform 0.3s;">
+
+<a href="https://tioon.tistory.com/195" target="_blank" style="text-decoration: none; color: inherit; display: block; width: 100%;">
+  <div style="border: 1px solid #ddd; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.1); background-color: #ffffff; width: 400px;">
     <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FZfsyV%2FbtsHk0Q2rkh%2F56YvGvxXyRPAQJ7OMrLPH0%2Fimg.png" alt="Tioon's Tistory Blog" style="width: 100%; height: auto;">
     <div style="padding: 20px; background-color: #f9f9f9;">
       <h3 style="margin: 0; font-size: 20px; font-weight: bold; color: #333;">Tioon's Devlog</h3>
@@ -14,6 +15,7 @@
     </div>
   </div>
 </a>
+
 
 
 
