@@ -1,13 +1,18 @@
 
 
+
 ## ✏️  DEV's log
 
+<br>
 
-[![Tioon's Devlog Badge](https://img.shields.io/badge/방문하기-Tioon's%20DEVLOG-B0E0E6?style=for-the-badge&logo=tistory&logoColor=white)](https://tioon.tistory.com/)    
+
+[![Tioon's Devlog Badge](https://img.shields.io/badge/방문하기-Tioon's%20DEVLOG-B0E0E6?style=for-the-badge&logo=tistory&logoColor=white)](https://tioon.tistory.com/)   
+
 [![게시물](https://blogwidget.com/api/t/posting/0?name=tioon)](https://blogwidget.com/api/t/link/0?name=tioon)
 
 
 <br>
+
 
 ## 🔨 Tech Stack
 
