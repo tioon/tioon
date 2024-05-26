@@ -5,7 +5,7 @@
 
 [![Tioon's Devlog Badge](https://img.shields.io/badge/방문하기-Tioon's%20DEVLOG-FF5722?style=for-the-badge&logo=tistory&logoColor=white)](https://tioon.tistory.com/)     
 
-
+[![게시물](https://blogwidget.com/api/t/posting/0?name=tioon)](https://blogwidget.com/api/t/link/0?name=tioon)
 
 
 <br>
