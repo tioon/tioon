@@ -1,14 +1,15 @@
+## 👋 Portfolio
 
-
+[![](https://img.shields.io/badge/My%20Portfolio-4169e1?style=for-the-badge&logo=resume&logoColor=white)](https://my.surfit.io/w/509787812)
 
 ## ✏️  DEV's log
 
 <br>
 
 
-[![Tioon's Devlog Badge](https://img.shields.io/badge/방문하기-Tioon's%20DEVLOG-B0E0E6?style=for-the-badge&logo=tistory&logoColor=white)](https://tioon.tistory.com/)   
+[![Tioon's Devlog Badge](https://img.shields.io/badge/티스토리-Tioon's%20DEVLOG-4169e1?style=for-the-badge&logo=tistory&logoColor=white)](https://tioon.tistory.com/)   
 
-[![게시물](https://blogwidget.com/api/t/posting/0?name=tioon)](https://blogwidget.com/api/t/link/0?name=tioon)
+[![게시물](https://blogwidget.com/api/t/posting/2?name=tioon)](https://blogwidget.com/api/t/?name=tioon)
 
 
 <br>
@@ -135,4 +136,5 @@ __[KUSITMS 29TH MEET UP]__
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/ye._.chan9)](https://instagram.com/ye._.chan9)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:tioon74@gmail.com)](mailto:tioon74@gmail.com)
+
 
