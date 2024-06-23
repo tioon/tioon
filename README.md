@@ -10,15 +10,13 @@
 
 ## ✏️  DEV's log
 
-<br>
-
-
 [![Tioon's Devlog Badge](https://img.shields.io/badge/티스토리-Tioon's%20DEVLOG-4169e1?style=for-the-badge&logo=tistory&logoColor=white)](https://tioon.tistory.com/)   
 
 [![게시물](https://blogwidget.com/api/t/posting/2?name=tioon)](https://blogwidget.com/api/t/?name=tioon)
 
 
 <br>
+
 
 
 ## 🔨 Tech Stack
