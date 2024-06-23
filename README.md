@@ -1,6 +1,8 @@
-## 👋 Portfolio
+## 👋 My Portfolio
 
-[![](https://img.shields.io/badge/My%20Portfolio-4169e1?style=for-the-badge&logo=resume&logoColor=white)](https://my.surfit.io/w/509787812)
+<a href="https://my.surfit.io/w/509787812" target="_blank">
+  <img src="https://img.shields.io/badge/My%20Portfolio-4169e1?style=for-the-badge&logo=resume&logoColor=white" style="width: 170px; height: auto;">
+</a>
 
 ## ✏️  DEV's log
 
