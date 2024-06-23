@@ -4,6 +4,10 @@
   <img src="https://img.shields.io/badge/My%20Portfolio-4169e1?style=for-the-badge&logo=resume&logoColor=white" style="width: 170px; height: auto;">
 </a>
 
+<br>
+<br>
+
+
 ## ✏️  DEV's log
 
 <br>
